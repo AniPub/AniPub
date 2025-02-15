@@ -1,7 +1,52 @@
-#Assalamualaikum#
-This is the core of AniPub ... to make it work please open `backend/app.js` and kindly put your own token ! 
+*Assalamualaikum
 
-**How to Contribute:**
+**Instruction
+*To make it work*
+- type in the following commands
+
+```
+1. Sudo npm install express
+```
+```
+2.Sudo npm install morgan
+```
+```
+3.Sudo npm install mongoose
+```
+```
+4.Sudo npm install lodash
+```
+
+- After installing the pkg 
+if you don't have a mongodb account than please <a traget="_blank" href="https://account.mongodb.com/account/register">create</a>one and than a cluster ! In this project i am using a free one ~ heh //donations are accepted with open arms
+
+<b>Oh Just to be sure please make sure to set your ip in whitelist <b>
+
+open `backend/app.js` and kindly put your username and password instead of 
+``<username>:<password>`` !
+
+after doing that it will look something like 
+```
+mongodb+srv://Adnan:asdf1234@cluster0.cbnst.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+```
+
+
+
+**To Run 
+Please make sure you have node installed
+
+if not 
+```
+sudo apt install node
+```
+Than type 
+```
+node app.js 
+```
+
+*Tha's it... it will start working soon 
+
+**If you want to contribute than:-
 
 - Fork the Repository: Create your own copy of AniPub to work on. This is your chance to make your mark!
 
@@ -9,22 +54,6 @@ This is the core of AniPub ... to make it work please open `backend/app.js` and 
 
 - Collaborate with Us: Join our discussions and help us brainstorm ways to make AniPub the best anime site out there!
 
-*To make it work*
-type in the following commands
-
-```
-1. Sudo apt install express
-```
-```
-2.Sudo apt install morgan
-```
-```
-3.Sudo apt install mongoose
-```
-```
-4.Sudo apt install lodash
-```
-
-although it's still under construction --- so wait and see what happens next hehe
+although it's still under construction all the features may not be available--- so wait and see what happens next hehe
 in the meantime you can visite our demo static page
-<a href="https://adnandluffy.github.io/">AniPub</a>
+<a href="https://AniPub.github.io/">AniPub</a>
