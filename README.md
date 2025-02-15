@@ -28,13 +28,13 @@ Just like Luffy and his crew, we believe that teamwork makes the dream work! We 
 
 **How to Contribute:**
 
-1.Fork the Repository: Create your own copy of AniPub to work on. This is your chance to make your mark!
+- Fork the Repository: Create your own copy of AniPub to work on. This is your chance to make your mark!
 
-2.Share Your Ideas: We want to hear your thoughts! Whether it’s features you’d love to see or content you think we should include, your feedback is crucial.
+- Share Your Ideas: We want to hear your thoughts! Whether it’s features you’d love to see or content you think we should include, your feedback is crucial.
 
-3.Collaborate with Us: Join our discussions and help us brainstorm ways to make AniPub the best anime site out there!
+- Collaborate with Us: Join our discussions and help us brainstorm ways to make AniPub the best anime site out there!
 
-4.Spread the Word: Share AniPub with your friends and fellow anime enthusiasts! The more, the merrier!
+- Spread the Word: Share AniPub with your friends and fellow anime enthusiasts! The more, the merrier!
 
 Set Sail with Us! 🚀 So what are you waiting for, Nakama? Join us on this incredible journey and help us build the anime site that everyone has been looking for! With your passion and creativity, we can make AniPub the ultimate destination for anime fans everywhere!
 
@@ -59,3 +59,5 @@ type in the following commands
 ```
 
 although it's still under construction --- so wait and see what happens next hehe
+in the meantime you can visite our demo 
+<a href="https://adnandluffy.github.io/">AniPub</a>
