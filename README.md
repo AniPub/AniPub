@@ -1,6 +1,6 @@
-#Assalamualaikum --!
+Assalamualaikum --!
 
-##Welcome to AniPub! 🌊🍃
+Welcome to AniPub! 🌊🍃
 
 Ahoy, Nakama! 🏴‍☠️ Are you ready to embark on an epic adventure through the vast seas of anime? Look no further, because AniPub is here to be your trusty ship on this exhilarating journey! Just like the Straw Hat Pirates chasing the legendary One Piece, we’re on a quest to create the ultimate anime hub that every fan has been dreaming of!
 
