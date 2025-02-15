@@ -1,6 +1,6 @@
-*Assalamualaikum
+*Assalamualaikum*
 
-**Instruction
+**Instruction**
 *To make it work*
 - type in the following commands
 
@@ -32,7 +32,7 @@ mongodb+srv://Adnan:asdf1234@cluster0.cbnst.mongodb.net/?retryWrites=true&w=majo
 
 
 
-**To Run 
+**To Run**
 Please make sure you have node installed
 
 if not 
@@ -44,9 +44,9 @@ Than type
 node app.js 
 ```
 
-*Tha's it... it will start working soon 
+*Tha's it... it will start working soon* 
 
-**If you want to contribute than:-
+**If you want to contribute than:-**
 
 - Fork the Repository: Create your own copy of AniPub to work on. This is your chance to make your mark!
 
