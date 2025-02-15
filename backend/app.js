@@ -11,7 +11,9 @@ const OP = require("./Data/data");
 
 let accountId = "";
 
-const DataBaseId = 'mongodb+srv://NodeDB:asdf1234@cluster0.cbnst.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const DataBaseId = 'mongodb+srv://<username>:<password>@cluster0.cbnst.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+//please give your own username and password
+
 const port = 3000;
 
 mongoose.connect(DataBaseId)
