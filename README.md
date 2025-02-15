@@ -8,16 +8,16 @@
 1. Sudo npm install express
 ```
 ```
-2.Sudo npm install morgan
+2. Sudo npm install morgan
 ```
 ```
-3.Sudo npm install mongoose
+3. Sudo npm install mongoose
 ```
 ```
 4. Sudo npm install ejs
 ```
 ```
-5.Sudo npm install lodash
+5. Sudo npm install lodash
 ```
 
 - After installing the pkg 
