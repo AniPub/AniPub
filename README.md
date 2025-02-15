@@ -1,6 +1,6 @@
-Assalamualaikum --!
+**Assalamualaikum --!**
 
-Welcome to AniPub! 🌊🍃
+**Welcome to AniPub! 🌊🍃**
 
 Ahoy, Nakama! 🏴‍☠️ Are you ready to embark on an epic adventure through the vast seas of anime? Look no further, because AniPub is here to be your trusty ship on this exhilarating journey! Just like the Straw Hat Pirates chasing the legendary One Piece, we’re on a quest to create the ultimate anime hub that every fan has been dreaming of!
 
@@ -39,3 +39,23 @@ Just like Luffy and his crew, we believe that teamwork makes the dream work! We 
 Set Sail with Us! 🚀 So what are you waiting for, Nakama? Join us on this incredible journey and help us build the anime site that everyone has been looking for! With your passion and creativity, we can make AniPub the ultimate destination for anime fans everywhere!
 
 Let’s go, and may our adventure be as thrilling as the Grand Line! 🌊✨ Together, we’ll navigate the waves of anime, uncover hidden treasures, and create unforgettable memories. So grab your straw hat, gather your crew, and let’s set sail on this amazing adventure with AniPub! 🏴‍☠️
+
+
+
+*To make it work*
+type in the following commands
+
+```
+1. Sudo apt install express
+```
+```
+2.Sudo apt install morgan
+```
+```
+3.Sudo apt install mongoose
+```
+```
+4.Sudo apt install lodash
+```
+
+although it's still under construction --- so wait and see what happens next hehe
