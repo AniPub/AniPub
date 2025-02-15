@@ -2,7 +2,7 @@
 
 **Instruction**
 *To make it work*
-- type in the following commands
+- type the following commands
 
 ```
 1. Sudo npm install express
@@ -18,7 +18,7 @@
 ```
 
 - After installing the pkg 
-if you don't have a mongodb account than please <a traget="_blank" href="https://account.mongodb.com/account/register">create</a>one and than a cluster ! In this project i am using a free one ~ heh //donations are accepted with open arms
+if you don't have a mongodb account than please <a traget="_blank" href="https://account.mongodb.com/account/register">create</a> one and than a cluster ! In this project i am using a free one ~ heh //donations are accepted with open arms
 
 <b>Oh Just to be sure please make sure to set your ip in whitelist <b>
 
