@@ -14,7 +14,10 @@
 3.Sudo npm install mongoose
 ```
 ```
-4.Sudo npm install lodash
+4. Sudo npm install ejs
+```
+```
+5.Sudo npm install lodash
 ```
 
 - After installing the pkg 
