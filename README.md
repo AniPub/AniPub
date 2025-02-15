@@ -59,5 +59,5 @@ type in the following commands
 ```
 
 although it's still under construction --- so wait and see what happens next hehe
-in the meantime you can visite our demo 
+in the meantime you can visite our demo static page
 <a href="https://adnandluffy.github.io/">AniPub</a>
